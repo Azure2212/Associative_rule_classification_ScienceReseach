@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sfu_ce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pfv/spmf/algorithms/frequentpatterns/sfu_ce/sfu_ce.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

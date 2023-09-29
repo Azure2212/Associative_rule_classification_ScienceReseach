@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="triangularmatrix">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pfv/spmf/datastructures/triangularmatrix/triangularmatrix.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
